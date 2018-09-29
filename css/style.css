@@ -28,23 +28,25 @@ h2 {
     margin: auto;
 }
 
-#main-bio #contact-info #bio-image {
-    float: left;
-}
+
 
 #bio-image {
     width: 200px;
     margin-right: 20px;
+    float: left;
 }
 
 #main-bio {
     width: 70%;
     line-height: 150%
+    float: left;
 }
 
 #contact-info {
     width: 30%;
     line-height: 150%;
+    float: left;
+    
 }
 
 a {
